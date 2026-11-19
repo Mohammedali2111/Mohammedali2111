@@ -18,25 +18,13 @@
 
 ## About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mohammed Ali A K"
-        self.location = "Chennai, India"
-        self.degree = "B.E. Computer Science and Engineering"
-        self.languages = ["Java", "Python", "JavaScript"]
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Machine Learning"
-        ]
-        self.current_focus = "Building practical software projects"
+ Hi, I'm **Mohammed Ali A K**, a Computer Science and Engineering undergraduate passionate about Software Development and Artificial Intelligence.
 
-    def motto(self):
-        return "Learn continuously. Build thoughtfully. Improve consistently."
-
-me = Developer()
-```
+-  B.E. Computer Science & Engineering (2024–2028)
+-  Interested in Software Engineering and AI Engineering.
+-  Building practical projects using Java, Python and modern technologies.
+-  Exploring Machine Learning and intelligent software solutions.
+- continuously learning, experimenting and improving my development skills.
 
 I'm a Computer Science and Engineering undergraduate interested in building reliable software and exploring how AI can solve practical problems. I enjoy learning by developing projects, experimenting with technologies, and strengthening my problem-solving skills.
 
