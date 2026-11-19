@@ -154,4 +154,4 @@ I'm always interested in learning, building, and collaborating on meaningful sof
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling" width="100%" />
 
-</div>
+</div
